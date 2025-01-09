@@ -149,7 +149,7 @@ function App() {
       </header>
 
       {/* Text Content Section with Image */}
-      <section className="content-section" style={{ display: 'flex', justifyContent: 'space-between', padding: '20px', backgroundColor: 'rgba(0, 0, 0, 0.36)', borderRadius: '8px' }}>
+      <section className="content-section" style={{ display: 'flex', justifyContent: 'space-between', padding: '20px', backgroundColor: 'rgba(0, 0, 0, 0.36)' }}>
   <div className="content-text text-bg" style={{ flex: 1, paddingRight: '20px' }}>
     <h3 className="gradient-text" style={{ fontSize: '24px', color: 'linear-gradient(45deg, #ff6b6b, #f8b400)' }}>
       Why Gambling Can Be an Exciting Escape
