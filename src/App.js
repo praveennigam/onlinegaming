@@ -204,7 +204,7 @@ function App() {
       {/* Games Section */}
       <section className="games-section">
         <div className="games-title">
-          <h2 className="gradient-text">{selectedCategory} Games</h2>
+          <h2 className="gradient-text">{selectedCategory}</h2>
         </div>
         <div className="cards-container">
           {getGamesForCategory(selectedCategory).map((game, index) => (
