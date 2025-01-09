@@ -125,8 +125,15 @@ function App() {
     <div className="App">
       {/* Navbar */}
       <nav className="navbar">
-        <h1 className="navbar-title">Play & Earn🏆</h1>
-        <a href="https://t.me/imptip1999" target="_blank" rel="noopener noreferrer" className="telegram-icon">
+     <h1 className="navbar-title">
+          <img 
+            src="/logo1.png" 
+            alt="Logo" 
+            style={{ paddingTop:"10px",  height: '50px', width: '50px', borderRadius: '50%', marginRight: '10px' }} 
+          />
+          Play & Earn🏆
+        </h1>
+                <a href="https://t.me/imptip1999" target="_blank" rel="noopener noreferrer" className="telegram-icon">
           <FaTelegramPlane size={30} />
         </a>
       </nav>
@@ -218,6 +225,86 @@ function App() {
           ))}
         </div>
       </section>
+
+      <section className="youtube-card-section">
+  <div className="youtube-card">
+    <div className="youtube-video-container">
+      <iframe 
+        src="https://www.youtube.com/embed/D3x5VrGQQXI" 
+        title="YouTube Video 1" 
+        frameBorder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowFullScreen
+        className="youtube-video"
+      ></iframe>
+    </div>
+    <div className="youtube-card-title">
+      <h3 className="gradient-text">Slots Game Tricks $ Tips!</h3>
+    </div>
+    <div className="youtube-card-description">
+      <p>Subscribe for more amazing gaming videos and tips! 🎮</p>
+    </div>
+  </div>
+
+  {/* Second Video Card */}
+  <div className="youtube-card">
+    <div className="youtube-video-container">
+      <iframe 
+        src="https://www.youtube.com/embed/gerMoljSz8o" 
+        title="YouTube Video 2" 
+        frameBorder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowFullScreen
+        className="youtube-video"
+      ></iframe>
+    </div>
+    <div className="youtube-card-title">
+      <h3 className="gradient-text">Rummy Game Tricks $ Tips!</h3>
+    </div>
+    <div className="youtube-card-description">
+      <p>Don't forget to subscribe for the latest updates on gaming! 🎮</p>
+    </div>
+  </div>
+
+  <div className="youtube-card">
+    <div className="youtube-video-container">
+      <iframe 
+        src="https://www.youtube.com/embed/AmKzZEEFH3o?si=GDlaZ8gIuNmLNjgp" 
+        title="Rummy Game" 
+        frameBorder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowFullScreen
+        className="youtube-video"
+      ></iframe>
+    </div>
+    <div className="youtube-card-title">
+      <h3 className="gradient-text">Balloon Game Tricks $ Tips!</h3>
+    </div>
+    <div className="youtube-card-description">
+      <p>Don't forget to subscribe for the latest updates on gaming! 🎮</p>
+    </div>
+  </div>
+
+  {/* Fourth Video Card (New link) */}
+  <div className="youtube-card">
+    <div className="youtube-video-container">
+      <iframe 
+        src="https://www.youtube.com/embed/djVleXJ9pgo?si=i09YrKWlGGXziUjz" 
+        title="Another Gaming Video" 
+        frameBorder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowFullScreen
+        className="youtube-video"
+      ></iframe>
+    </div>
+    <div className="youtube-card-title">
+      <h3 className="gradient-text">Aviator Game Tricks $ Tips!</h3>
+    </div>
+    <div className="youtube-card-description">
+      <p>Join the fun with the latest gaming action! 🎮</p>
+    </div>
+  </div>
+</section>
     </div>
   );
 }

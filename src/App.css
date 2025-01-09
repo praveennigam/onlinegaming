@@ -41,7 +41,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding-bottom: 40px; /* Ensure there's space at the bottom */
+  padding-bottom: 10px; /* Ensure there's space at the bottom */
 }
 
 /* Navbar */
@@ -49,8 +49,9 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 30px;
+  padding: 20px 20px;
   background: rgba(0, 0, 0, 0.6);
+   max-height: 80px;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -58,17 +59,24 @@ body {
 }
 
 .navbar-title {
-  font-size: 2.8rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 2px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
   flex-grow: 1;
   text-align: left;
 }
 
 .telegram-icon {
-  color: #fff;
+  color: rgb(55, 55, 241);
+  background: none;
+  
+  
+  border-radius: 50%;
   text-decoration: none;
   font-size: 28px;
   transition: transform 0.3s ease;
@@ -82,7 +90,7 @@ body {
 .main-header {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 20%;
   align-items: center;
   height: 60vh;
@@ -106,7 +114,7 @@ body {
 }
 
 .headline {
-  font-size: 3.8rem;
+  font-size: 3rem;
   font-weight: 800;
   text-transform: uppercase;
   background: linear-gradient(90deg, #ff7b00, #ff0a75);
@@ -230,7 +238,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.7);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -242,13 +250,13 @@ body {
   color: #fff;
   font-weight: bold;
   letter-spacing: 1px;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
 /* Games Section */
 .games-section {
   padding: 50px 20px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .games-title {
@@ -273,7 +281,7 @@ body {
 /* Responsive Styles */
 /* Responsive Styles for small devices */
 @media (max-width: 768px) {
-  /* Category Section */
+  
   .cards-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Display 3 cards per row on medium screens */
@@ -303,6 +311,20 @@ body {
     border-radius: 15px;
   }
 
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background: rgba(0, 0, 0, 0.6);
+     max-height: 70px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  }
+   
+
   .category-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
@@ -310,40 +332,12 @@ body {
 
   /* Title inside the card */
   .card-title {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color: white;
   }
-}
-
-/* For small devices (under 480px) */
-@media (max-width: 480px) {
-  .cards-container {
-    display: grid;
-    grid-template-columns: 1fr;  /* 1 card per row for small screens */
-    gap: 20px;
-    padding: 0 10px;
-  }
-
-  .category-card {
-    height: 160px;  /* Smaller height for small screens */
-    width: 100%; /* Ensure the card takes full width */
-    border-radius: 10px;
-  }
-
-  .category-card img {
-    object-fit: cover;
-  }
-
-  .card-title {
-    font-size: 1.4rem;  /* Smaller font size for mobile */
-  }
-}
-
-
-@media (max-width: 480px) {
   .navbar-title {
-    font-size: 1.8rem;
-    text-align: center;
+    font-size: 1rem;
+    text-align: left;
     margin-bottom: 10px;
   }
 
@@ -362,9 +356,49 @@ body {
     font-size: 1rem;
   }
 
+}
+
+@media (max-width: 480px) {
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background: rgba(0, 0, 0, 0.6);
+     max-height: 50px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .navbar-title {
+    font-size: 1rem;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+
+  .telegram-icon {
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .main-header {
+    height: 55vh;
+    padding: 40%;
+  }
+
+  .headline {
+    font-size: 0.9rem; 
+    width: 90vw;
+  }
+
   .description {
     font-size: 1rem;
     margin-top: 10px;
+    width: 90vw;
   }
 
   .content-section {
@@ -418,5 +452,114 @@ body {
     background: linear-gradient(90deg, #ff7b00, #ff0a75);
     -webkit-background-clip: text;
     color: transparent;
+  }
+}
+
+
+
+
+/* Basic card styling */
+.youtube-card-section {
+  display: flex;
+  flex-wrap: wrap; /* Allow wrapping */
+  justify-content: center;
+  padding: 20px;
+  gap: 20px; /* Space between cards */
+}
+
+/* Card styling */
+.youtube-card {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid gray;
+
+  background-color: none;
+  box-shadow: 0 4px 10px rgba(55, 157, 131, 0.6);
+  flex: 1 1 calc(50% - 40px); /* Two cards inline for large screens */
+  margin: 10px;
+}
+
+/* Background overlay for the body */
+section {
+  background-color: rgba(0, 0, 0, 0.5); /* 90% black transparency */
+  color: white;
+}
+
+/* Video container (removed blur) */
+.youtube-video-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.youtube-video {
+  width: 100%;
+  height: 400px;
+  border: none;
+  border-radius: 10px;
+  /* Removed blur effect */
+}
+
+/* Gradient Text */
+.gradient-text {
+  background: linear-gradient(45deg, #ff6b6b, #f8b400);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/* Title and description with gradient background */
+.youtube-card-title {
+  padding: 15px;
+  background: linear-gradient(45deg, #230c767b, #9f057956); /* Gradient background */
+  text-align: center;
+}
+
+.youtube-card-title h3 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: white;
+}
+
+.youtube-card-description {
+  padding: 20px;
+  background: linear-gradient(45deg, #42b611bc, #1c10195c);
+  color: white;
+  font-size: 1rem;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+  font-style: italic;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .youtube-card {
+    flex: 1 1 100%; /* Stack the cards vertically on medium devices */
+  }
+
+  .youtube-video {
+    height: 250px;
+  }
+
+  .youtube-card-title h3 {
+    font-size: 1.4rem;
+  }
+
+  .youtube-card-description p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .youtube-video {
+    height: 200px;
+  }
+
+  .youtube-card-title h3 {
+    font-size: 1.2rem;
+  }
+
+  .youtube-card-description p {
+    font-size: 0.8rem;
   }
 }
