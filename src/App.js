@@ -131,7 +131,7 @@ function App() {
             alt="Logo" 
             style={{ paddingTop:"10px",  height: '50px', width: '50px', borderRadius: '50%', marginRight: '10px' }} 
           />
-          Play & Earn🏆
+          
         </h1>
                 <a href="https://t.me/imptip1999" target="_blank" rel="noopener noreferrer" className="telegram-icon">
           <FaTelegramPlane size={30} />
