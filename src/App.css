@@ -185,7 +185,7 @@ body {
 }
 
 .category-title {
-  font-size: 2rem;
+  font-size: 1.4rem;
   margin-bottom: 40px;
   color: #fff;
   text-align: center;
@@ -245,7 +245,7 @@ body {
 }
 
 .card-title {
-  font-size: 2rem;
+  font-size: 1rem;
   text-align: center;
   color: #fff;
   font-weight: bold;
@@ -281,6 +281,20 @@ body {
 /* Responsive Styles */
 /* Responsive Styles for small devices */
 @media (max-width: 768px) {
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background: rgba(0, 0, 0, 0.6);
+     max-height: 70px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  }
+   
+
   
   .cards-container {
     display: grid;
@@ -311,19 +325,6 @@ body {
     border-radius: 15px;
   }
 
-  .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 20px;
-    background: rgba(0, 0, 0, 0.6);
-     max-height: 70px;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
-  }
-   
 
   .category-card:hover {
     transform: translateY(-10px);
@@ -418,17 +419,45 @@ body {
     max-width: 100%;
   }
 
-  .category-card {
-    height: 180px;
-    border-radius: 10px;
-  }
-
   .cards-container {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Display 3 cards per row on medium screens */
+    gap: 30px;
+    padding: 0 20px;
   }
 
+  .category-card {
+    position: relative;
+    max-height: 80px; /* Increase height of the card */
+    width: 100%;  /* Full width of the column */
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-size: cover;
+    background-position: center;
+    background: rgba(0, 0, 0, 0.4); /* Dark overlay for readability */
+    border: 2px solid rgba(255, 255, 255, 0.2); /* Border for better contrast */
+  }
+
+  .category-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+
+
+  .category-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+  }
+
+  /* Title inside the card */
   .card-title {
-    font-size: 1.5rem;
+    font-size: 0.8rem;
+    color: white;
   }
 
   .games-title {
