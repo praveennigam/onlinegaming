@@ -474,7 +474,7 @@ function App() {
     </p>
   </div>
   <div className="content-image" style={{ flex: 1 }}>
-    <img src="https://images.pexels.com/photos/7594586/pexels-photo-7594586.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Gaming" className="gameimg" style={{ width: '100%', borderRadius: '8px' }} />
+    <img src="https://images.pexels.com/photos/7594586/pexels-photo-7594586.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Gaming" className="gameimg" style={{  height:"100%", borderRadius: '8px' }} />
   </div>
 </section>
 

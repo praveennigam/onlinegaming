@@ -147,7 +147,7 @@ body {
 }
 
 .text-bg {
-  background: rgba(0, 0, 0, 0.6);
+  background: none;
   padding: 20px;
   
   padding-top: 60px;
