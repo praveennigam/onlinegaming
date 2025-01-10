@@ -528,6 +528,26 @@ function App() {
       </section>
 
       <section className="youtube-card-section">
+
+      <div className="youtube-card">
+  <div className="youtube-video-container">
+    <iframe 
+      src="https://www.youtube.com/embed/3lYQHRi0nPc?si=cufiqT5BLnWt6VmT" 
+      title="Exciting Game Highlights!" 
+      frameBorder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowFullScreen
+      className="youtube-video"
+    ></iframe>
+  </div>
+  <div className="youtube-card-title">
+    <h3 className="gradient-text">Exciting Game Highlights!</h3>
+  </div>
+  <div className="youtube-card-description">
+    <p>Watch the most thrilling moments from our latest gaming adventures! 🚀🎮</p>
+  </div>
+</div>
+
   <div className="youtube-card">
     <div className="youtube-video-container">
       <iframe 

@@ -505,7 +505,7 @@ body {
   border: 1px solid gray;
 
   background-color: none;
-  box-shadow: 0 4px 10px rgba(55, 157, 131, 0.6);
+  box-shadow: 0 4px 10px rgba(143, 140, 142, 0.6);
   flex: 1 1 calc(50% - 40px); /* Two cards inline for large screens */
   margin: 10px;
 }
