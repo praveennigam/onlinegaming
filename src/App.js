@@ -123,10 +123,22 @@ const games = {
       "name": " 3Patti Master", 
       "image": "https://gnptimes.in/wp-content/uploads/2024/12/images-1-1.jpeg", 
       "link": "https://www.earntp.com/m/e76r0z"
+    },
+    
+    { 
+      "name": "Rummy Bharat", 
+      "image": "https://images.sftcdn.net/images/t_app-icon-m/p/b9a3efd0-0c99-439f-842e-d9854a4609b4/2278565573/bharatrummy-logo", 
+      "link": "https://www.rich-games.com/eWRud19xXUJ4dQ4="
+    },
+    
+    
+    { 
+      "name": "Rummy Good", 
+      "image": "https://rummycashgames.com/wp-content/uploads/2024/06/Rummy-Good-App.png", 
+      "link": "https://rummygooda.com/?from_gameid=12942565&channelCode=100000"
     }
  
  
-
 
 
   ],
