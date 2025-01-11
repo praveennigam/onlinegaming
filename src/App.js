@@ -580,19 +580,33 @@ function App() {
       Gambling offers an exhilarating escape from the everyday grind, filled with the thrill of chance and risk. 
       Whether it's the rush of the roulette wheel or the strategy behind poker, the world of gambling offers high stakes excitement.
     </p>
-    <p style={{
-      fontSize: '14px', 
-      color: "white",
-      marginTop: '20px', 
-      padding: '10px', 
-      backgroundColor: '#f39c12', 
-      borderLeft: '5px solid #e74c3c', 
-      borderRadius: '5px', 
-      fontStyle: 'italic',
-      boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.2)'
-    }}>
-      <strong style={{ color: 'red' }}>Disclaimer:</strong> I am not responsible for any actions, outcomes, or consequences resulting from the use of this service. Gambling can be addictive. Please play responsibly and only within your financial limits. If you or someone you know is struggling with gambling addiction, seek help immediately. There are many support organizations available to provide assistance.
-    </p>
+    <p 
+  style={{
+    fontSize: '12px', 
+    color: "white",
+    marginTop: '20px', 
+    textAlign:"left",
+    flexWrap:"wrap",
+    padding: '10px', 
+    backgroundColor: '#f39c12', 
+    borderLeft: '5px solid #e74c3c', 
+    borderRadius: '5px', 
+    boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.2)',
+    width: '100%',       // Ensures the paragraph takes up the full width
+    display: 'block',    // Makes the paragraph behave like a block-level element
+    wordWrap: 'break-word' // Ensures the text wraps appropriately within the width
+  }}
+>
+  <strong style={{ color: 'red' }}>Disclaimer:</strong>  
+  I do not own or operate the app. This website is just to share my referral link. 
+  The app and app logo and other materials belong to the app owners. I do not claim to own them in any way. 
+  I am not responsible for any actions, outcomes, or consequences resulting from the use of this service. 
+  <span style={{ fontWeight: 'bold', color: 'brown' }}>Gambling can be addictive.</span> 
+  Please play responsibly and only within your financial limits. 
+  If you or someone you know is struggling with gambling addiction, seek help immediately.
+  There are many support organizations available to provide assistance.
+</p>
+
   </div>
   <div className="content-image" style={{ flex: 1 }}>
     <img src="https://images.pexels.com/photos/7594586/pexels-photo-7594586.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Gaming" className="gameimg" style={{  height:"100%", borderRadius: '8px' }} />
