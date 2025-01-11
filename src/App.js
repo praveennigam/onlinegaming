@@ -4,6 +4,8 @@ import "./App.css";
 
 // Categories
 const categories = [
+  { name: "All Apps List", image: "https://images.pexels.com/photos/979722/pexels-photo-979722.jpeg?auto=compress&cs=tinysrgb&w=600" },
+
   { name: "Slots Game", image: "https://casino.betmgm.com/en/blog/wp-content/uploads/2024/02/slots-header.jpg" },
   { name: "Casino Game", image: "https://www.telemediaonline.co.uk/wpsystem/wp-content/uploads/2021/04/SlotMachine-scaled-1.jpg" },
   { name: "Rummy Game", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXy7qaZ6jLaq410tn1_xXb66J51MXqzkRYeiqalqWIKiekbOrG_OQQuD0aRaKN10Q57YQ&usqp=CAU" },
@@ -12,7 +14,126 @@ const categories = [
 ];
 
 // List of games for each category
-const games = {
+const games = { 
+
+  "All Apps List":[
+    { 
+      name: "Fiewin", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
+      link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+    },
+    { 
+      name: "GugoBet", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
+      link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+    },
+    { 
+      name: "LCG", 
+      image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
+      link: "https://lcgvip.com/#?invite_code=942685730"
+    },
+
+    { 
+      "name": "Rummy Ola", 
+      "image": "https://images.sftcdn.net/images/t_app-icon-m/p/ce2acfd7-3cfb-4171-b680-0709a578a079/4259388626/rummy-ola-mzf-logo", 
+      "link": "https://rummykg.com/?from_gameid=22934893&channelCode=100000"
+    },
+    { 
+      "name": "Teenpatti Joy", 
+      "image": "https://play-lh.googleusercontent.com/DwyZ8BAGvx4zWWAof-hy8s3kvLdXHKu7_gFp__DE7Cl_kIdmoV2uTwRQawkRBvcroXxL=w600-h300-pc0xffffff-pd", 
+      "link": "https://rummyjd.com/?from_gameid=37491358&channelCode=100000"
+    },
+    { 
+      "name": "Rainbow Rummy", 
+      "image": "https://rummyteenpattiapp.com/wp-content/uploads/2023/07/Ru-R.jpg", 
+      "link": "https://rainbowry.com/?from_gameid=12637278&channelCode=100000"
+    },
+    { 
+      "name": "Puzzle 3Patti", 
+      "image": "https://assets.apk.live/com.nar.DsD6DSD1.FSY--1-icon.png", 
+      "link": "https://puzzle3patti.com"
+    },
+    { 
+      "name": "Rummy Try", 
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDYOu7aDvmIH55m_3aJ3YuNUKqbJSy06-Jjj9KpCYT0Ta0jZ0SRp2n47Ft3H-e1DxYLY&usqp=CAU", 
+      "link": "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000 "
+    },
+    { 
+      "name": "Rummy Guru", 
+      "image": "https://teenpattipure.com/wp-content/uploads/2024/02/rummy-guru-logo.webp", 
+      "link": "https://www.rummyguru.top/share/4Xf0Yxy"
+    },
+    { 
+      "name": "Rummy Pride", 
+      "image": "https://i0.wp.com/allbestrummyapp.com/rummy-pride/img/rummy-pride-apk-logo.webp?strip=all", 
+      "link": "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
+    },
+    { 
+      "name": "SVIP3Patti", 
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgeGMHVSF2yYQXL63E1fZT2a6dmKS9A-rhig&s", 
+      "link": "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553 "
+    },
+    { 
+      "name": "RummySE", 
+      "image": "https://rummyse.org.in/Assets/rummyse%20logo.webp", 
+      "link": "https://www.rummyse.com/share/4Xe_8xy "
+    },
+    { 
+      "name": "Rummy Most", 
+      "image": "https://rummymost.co.in/images/rummy-most-apk-logo.png", 
+      "link": "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
+    },
+    { 
+      "name": "Royal Teenpatti", 
+      "image": "https://play-lh.googleusercontent.com/PFSrAa3Ham7NEQftK_th6WqsZUMmDZKFT5z5mhm74nW5jeWMKIvJc7jOm4E0sqQsLlE", 
+      "link": "https://royal.wawo3patti.com/?code=code_121423321 "
+    },
+    { 
+      "name": "Hobigames", 
+      "image": "https://api.duejge22.com/profile/upload/dc114778-03dc-41c5-a16a-9891b21d50d4.png", 
+      "link": "https://hobigames.app/?ch=1000000&uid=9261531"
+    },
+    { 
+      "name": "Rummy East", 
+      "image": "https://allrummy.tech/wp-content/uploads/2025/01/1000145101-removebg-preview.png", 
+      "link": "https://rummyeast1.com/?from_gameid=20200279&channelCode=100000"
+    },
+    { 
+      "name": "Rummy Apple", 
+      "image": "https://allrummy.tech/wp-content/uploads/2025/01/1000145959-removebg-preview.png", 
+      "link": "https://rummyapple.in/?from_gameid=13685732&channelCode=200000"
+    },
+    { 
+      "name": "666 Rummy", 
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7XIHSeZ-OZWBVJ2tZEMt7ieDtEFgvBIlmNQ&s", 
+      "link": "https://666eaffiliate.com/?from_gameid=7589021&channelCode=100000"
+    },
+    { 
+      "name": "Rummy Golds", 
+      "image": "https://play-lh.googleusercontent.com/mCFa02ydsm1d7DTvUrANGrdHUaU1Q9udOHzO-2IsrWWnpc986Qlc26lniWPlKZRcxwI", 
+      "link": "https://rummyaf.com/?from_gameid=33504501&channelCode=23095483"
+    },
+    { 
+      "name": " Rummy Yono", 
+      "image": "https://play-lh.googleusercontent.com/uaAFuOTA-A-FYtZVs70Pa9jJD2QjEBmPV81fUhCgEp4Vi6jCcj4ShEZAKFNIIYf5pV4=w526-h296-rw", 
+      "link": "https://yonorummyo.com/?code=VIPENVCSVJD&t=1736607959"
+    }
+    ,
+    { 
+      "name": " 3Patti Master", 
+      "image": "https://gnptimes.in/wp-content/uploads/2024/12/images-1-1.jpeg", 
+      "link": "https://www.earntp.com/m/e76r0z"
+    }
+ 
+ 
+
+
+
+  ],
+
+
+
+
 "Slots Game": [
     { 
       name: "Fiewin", 
@@ -505,7 +626,7 @@ function App() {
       {/* Games Section */}
       <section className="games-section">
         <div className="games-title">
-          <h2 className="gradient-text">{selectedCategory}</h2>
+          <h2 className="gradient-text">{selectedCategory} Click & Download! </h2>
         </div>
         <div className="cards-container">
           {getGamesForCategory(selectedCategory).map((game, index) => (
