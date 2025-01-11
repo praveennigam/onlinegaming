@@ -4,7 +4,7 @@ import "./App.css";
 
 // Categories
 const categories = [
-  { name: "All Apps List", image: "https://images.pexels.com/photos/979722/pexels-photo-979722.jpeg?auto=compress&cs=tinysrgb&w=600" },
+  { name: "Apps List", image: "https://images.pexels.com/photos/979722/pexels-photo-979722.jpeg?auto=compress&cs=tinysrgb&w=600" },
 
   { name: "Slots Game", image: "https://casino.betmgm.com/en/blog/wp-content/uploads/2024/02/slots-header.jpg" },
   { name: "Casino Game", image: "https://www.telemediaonline.co.uk/wpsystem/wp-content/uploads/2021/04/SlotMachine-scaled-1.jpg" },
@@ -16,7 +16,7 @@ const categories = [
 // List of games for each category
 const games = { 
 
-  "All Apps List":[
+  "Apps List":[
     { 
       name: "Fiewin", 
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
