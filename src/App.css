@@ -184,6 +184,10 @@ body {
   background: rgba(0, 0, 0, 0.7);
 }
 
+.myh{
+  font-size: 3rem;;
+}
+
 .category-title {
   font-size: 1.4rem;
   margin-bottom: 40px;
@@ -325,6 +329,9 @@ body {
     border-radius: 15px;
   }
 
+  .myh{
+    font-size: 2rem;;
+  }
 
   .category-card:hover {
     transform: translateY(-10px);
@@ -396,6 +403,9 @@ body {
     width: 90vw;
   }
 
+  .myh{
+    font-size: 1.2rem;;
+  }
   .description {
     font-size: 1rem;
     margin-top: 10px;

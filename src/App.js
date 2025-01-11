@@ -602,7 +602,7 @@ function App() {
 
       {/* Categories Section */}
       <section className="category-section">
-        <div className="category-title gradient-text">Explore Categories</div>
+        <div className="category-title gradient-text ">Explore Categories</div>
         <div className="cards-container">
           {["All Games", ...categories.map(category => category.name)].map((categoryName, index) => (
             <div
@@ -626,7 +626,7 @@ function App() {
       {/* Games Section */}
       <section className="games-section">
         <div className="games-title">
-          <h2 className="gradient-text">{selectedCategory} Click & Download! </h2>
+          <h2 className="gradient-text myh">{selectedCategory} Click & Download! </h2>
         </div>
         <div className="cards-container">
           {getGamesForCategory(selectedCategory).map((game, index) => (
