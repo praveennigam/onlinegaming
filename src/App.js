@@ -34,14 +34,14 @@ const games = {
     },
 
     { 
-      "name": "Rummy Ola", 
-      "image": "https://images.sftcdn.net/images/t_app-icon-m/p/ce2acfd7-3cfb-4171-b680-0709a578a079/4259388626/rummy-ola-mzf-logo", 
-      "link": "https://rummykg.com/?from_gameid=22934893&channelCode=100000"
+      name: "Rummy Ola", 
+      image: "https://images.sftcdn.net/images/t_app-icon-m/p/ce2acfd7-3cfb-4171-b680-0709a578a079/4259388626/rummy-ola-mzf-logo", 
+      link: "https://rummykg.com/?from_gameid=22934893&channelCode=100000"
     },
     { 
-      "name": "Teenpatti Joy", 
-      "image": "https://play-lh.googleusercontent.com/DwyZ8BAGvx4zWWAof-hy8s3kvLdXHKu7_gFp__DE7Cl_kIdmoV2uTwRQawkRBvcroXxL=w600-h300-pc0xffffff-pd", 
-      "link": "https://rummyjd.com/?from_gameid=37491358&channelCode=100000"
+      name: "Teenpatti Joy", 
+      image: "https://play-lh.googleusercontent.com/DwyZ8BAGvx4zWWAof-hy8s3kvLdXHKu7_gFp__DE7Cl_kIdmoV2uTwRQawkRBvcroXxL=w600-h300-pc0xffffff-pd", 
+      link: "https://rummyjd.com/?from_gameid=37491358&channelCode=100000"
     },
     { 
       "name": "Rainbow Rummy", 
@@ -133,12 +133,17 @@ const games = {
     
     
     { 
-      "name": "Rummy Good", 
-      "image": "https://rummycashgames.com/wp-content/uploads/2024/06/Rummy-Good-App.png", 
-      "link": "https://rummygooda.com/?from_gameid=12942565&channelCode=100000"
+      name: "Rummy Good", 
+      image: "https://rummycashgames.com/wp-content/uploads/2024/06/Rummy-Good-App.png", 
+      link: "https://rummygooda.com/?from_gameid=12942565&channelCode=100000"
+    },
+    { 
+      name: "Aviator 2025", 
+      image: "https://obs32m-1218-ppp.oss-accelerate.aliyuncs.com/cocos/lg/appIconSkeleton.png", 
+      link: "https://zzk.com/?dl=$c50rpi$INR$2"
     }
  
- 
+    
 
 
   ],
@@ -773,7 +778,17 @@ function App() {
     </div>
   </div>
 </section>
+<section class="footer-section">
+  <footer class="footer-content">
+    <div class="footer-left">
+      <span className="mysdsds">MoneyMaker</span>
+      <span>© 2025 All rights reserved.</span>
     </div>
+  </footer>
+</section>
+
+    </div>
+
   );
 }
 

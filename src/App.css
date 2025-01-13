@@ -602,3 +602,74 @@ section {
     font-size: 0.8rem;
   }
 }
+
+/* Footer Section */
+.footer-section {
+  background-color: rgba(0, 0, 0, 0.7); /* Dark background with transparency */
+  color: white;
+  padding: 20px 0; /* Vertical padding */
+  text-align: center; /* Center text by default */
+}
+
+/* Footer Content */
+.footer-content {
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  align-items: center; /* Center the content vertically */
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center; /* Center text inside footer */
+}
+
+/* Footer Left Section */
+.footer-left .mysdsds {
+  font-size: 1.7rem;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: #9c520d; /* Gradient color similar to your other sections */
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  
+}
+
+.footer-left span {
+  font-size: 1.2rem;
+  color: #ddd;
+  font-weight: 300;
+  margin-top: 5px; /* Small space between the heading and paragraph */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: row;
+ flex-wrap: wrap;
+  }
+
+  .footer-left .mysdsds {
+    font-size: 1.2rem; 
+   display: block;
+  }
+
+  .footer-left span {
+    font-size: 1rem; /* Adjust font size for smaller devices */
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-content {
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+     
+  }
+
+  .footer-left .mysdsds {
+    font-size: 1.3rem;
+    display: block;
+  }
+
+  .footer-left span {
+    font-size: 0.9rem;
+  }
+}
