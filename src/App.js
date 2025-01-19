@@ -15,7 +15,7 @@ const categories = [
 
 // List of games for each category
 const games = { 
-
+  
   "Apps List":[
     { 
       name: "Fiewin", 
@@ -30,7 +30,7 @@ const games = {
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
-      link: "https://lcgvip.com/#?invite_code=942685730"
+      link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
     },
 
     { 
@@ -44,91 +44,91 @@ const games = {
       link: "https://rummyjd.com/?from_gameid=37491358&channelCode=100000"
     },
     { 
-      "name": "Rainbow Rummy", 
-      "image": "https://rummyteenpattiapp.com/wp-content/uploads/2023/07/Ru-R.jpg", 
-      "link": "https://rainbowry.com/?from_gameid=12637278&channelCode=100000"
+      name: "Rainbow Rummy", 
+      image: "https://rummyteenpattiapp.com/wp-content/uploads/2023/07/Ru-R.jpg", 
+      link: "https://rainbowry.com/?from_gameid=12637278&channelCode=100000"
     },
     { 
-      "name": "Puzzle 3Patti", 
-      "image": "https://assets.apk.live/com.nar.DsD6DSD1.FSY--1-icon.png", 
-      "link": "https://puzzle3patti.com"
+      name: "Puzzle 3Patti", 
+      image: "https://assets.apk.live/com.nar.DsD6DSD1.FSY--1-icon.png", 
+      link: "https://puzzle3patti.com"
     },
     { 
-      "name": "Rummy Try", 
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDYOu7aDvmIH55m_3aJ3YuNUKqbJSy06-Jjj9KpCYT0Ta0jZ0SRp2n47Ft3H-e1DxYLY&usqp=CAU", 
-      "link": "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000 "
+      name: "Rummy Try", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDYOu7aDvmIH55m_3aJ3YuNUKqbJSy06-Jjj9KpCYT0Ta0jZ0SRp2n47Ft3H-e1DxYLY&usqp=CAU", 
+      link: "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000 "
     },
     { 
-      "name": "Rummy Guru", 
-      "image": "https://teenpattipure.com/wp-content/uploads/2024/02/rummy-guru-logo.webp", 
-      "link": "https://www.rummyguru.top/share/4Xf0Yxy"
+      name: "Rummy Guru", 
+      image: "https://teenpattipure.com/wp-content/uploads/2024/02/rummy-guru-logo.webp", 
+      link: "https://www.rummyguru.top/share/4Xf0Yxy"
     },
     { 
-      "name": "Rummy Pride", 
-      "image": "https://i0.wp.com/allbestrummyapp.com/rummy-pride/img/rummy-pride-apk-logo.webp?strip=all", 
-      "link": "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
+      name: "Rummy Pride", 
+      image: "https://i0.wp.com/allbestrummyapp.com/rummy-pride/img/rummy-pride-apk-logo.webp?strip=all", 
+      link: "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
     },
     { 
-      "name": "SVIP3Patti", 
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgeGMHVSF2yYQXL63E1fZT2a6dmKS9A-rhig&s", 
-      "link": "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553 "
+      name: "SVIP3Patti", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgeGMHVSF2yYQXL63E1fZT2a6dmKS9A-rhig&s", 
+      link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553 "
     },
     { 
-      "name": "RummySE", 
-      "image": "https://rummyse.org.in/Assets/rummyse%20logo.webp", 
-      "link": "https://www.rummyse.com/share/4Xe_8xy "
+      name: "RummySE", 
+      image: "https://rummyse.org.in/Assets/rummyse%20logo.webp", 
+      link: "https://www.rummyse.com/share/4Xe_8xy "
     },
     { 
-      "name": "Rummy Most", 
-      "image": "https://rummymost.co.in/images/rummy-most-apk-logo.png", 
-      "link": "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
+      name: "Rummy Most", 
+      image: "https://rummymost.co.in/images/rummy-most-apk-logo.png", 
+      link: "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
     },
     { 
-      "name": "Royal Teenpatti", 
-      "image": "https://play-lh.googleusercontent.com/PFSrAa3Ham7NEQftK_th6WqsZUMmDZKFT5z5mhm74nW5jeWMKIvJc7jOm4E0sqQsLlE", 
-      "link": "https://royal.wawo3patti.com/?code=code_121423321 "
+      name: "Royal Teenpatti", 
+      image: "https://play-lh.googleusercontent.com/PFSrAa3Ham7NEQftK_th6WqsZUMmDZKFT5z5mhm74nW5jeWMKIvJc7jOm4E0sqQsLlE", 
+      link: "https://royal.wawo3patti.com/?code=code_121423321 "
     },
     { 
-      "name": "Hobigames", 
-      "image": "https://api.duejge22.com/profile/upload/dc114778-03dc-41c5-a16a-9891b21d50d4.png", 
-      "link": "https://hobigames.app/?ch=1000000&uid=9261531"
+      name: "Hobigames", 
+      image: "https://api.duejge22.com/profile/upload/dc114778-03dc-41c5-a16a-9891b21d50d4.png", 
+      link: "https://hobigames.app/?ch=1000000&uid=9261531"
     },
     { 
-      "name": "Rummy East", 
-      "image": "https://allrummy.tech/wp-content/uploads/2025/01/1000145101-removebg-preview.png", 
-      "link": "https://rummyeast1.com/?from_gameid=20200279&channelCode=100000"
+      name: "Rummy East", 
+      image: "https://allrummy.tech/wp-content/uploads/2025/01/1000145101-removebg-preview.png", 
+      link: "https://rummyeast1.com/?from_gameid=20200279&channelCode=100000"
     },
     { 
-      "name": "Rummy Apple", 
-      "image": "https://allrummy.tech/wp-content/uploads/2025/01/1000145959-removebg-preview.png", 
-      "link": "https://rummyapple.in/?from_gameid=13685732&channelCode=200000"
+      name: "Rummy Apple", 
+      image: "https://allrummy.tech/wp-content/uploads/2025/01/1000145959-removebg-preview.png", 
+      link: "https://rummyapple.in/?from_gameid=13685732&channelCode=200000"
     },
     { 
-      "name": "666 Rummy", 
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7XIHSeZ-OZWBVJ2tZEMt7ieDtEFgvBIlmNQ&s", 
-      "link": "https://666eaffiliate.com/?from_gameid=7589021&channelCode=100000"
+      name: "666 Rummy", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7XIHSeZ-OZWBVJ2tZEMt7ieDtEFgvBIlmNQ&s", 
+      link: "https://666eaffiliate.com/?from_gameid=7589021&channelCode=100000"
     },
     { 
-      "name": "Rummy Golds", 
-      "image": "https://play-lh.googleusercontent.com/mCFa02ydsm1d7DTvUrANGrdHUaU1Q9udOHzO-2IsrWWnpc986Qlc26lniWPlKZRcxwI", 
-      "link": "https://rummyaf.com/?from_gameid=33504501&channelCode=23095483"
+      name: "Rummy Golds", 
+      image: "https://play-lh.googleusercontent.com/mCFa02ydsm1d7DTvUrANGrdHUaU1Q9udOHzO-2IsrWWnpc986Qlc26lniWPlKZRcxwI", 
+      link: "https://rummyaf.com/?from_gameid=33504501&channelCode=23095483"
     },
     { 
-      "name": " Rummy Yono", 
-      "image": "https://play-lh.googleusercontent.com/uaAFuOTA-A-FYtZVs70Pa9jJD2QjEBmPV81fUhCgEp4Vi6jCcj4ShEZAKFNIIYf5pV4=w526-h296-rw", 
-      "link": "https://yonorummyo.com/?code=VIPENVCSVJD&t=1736607959"
+      name: " Rummy Yono", 
+      image: "https://play-lh.googleusercontent.com/uaAFuOTA-A-FYtZVs70Pa9jJD2QjEBmPV81fUhCgEp4Vi6jCcj4ShEZAKFNIIYf5pV4=w526-h296-rw", 
+      link: "https://yonorummyo.com/?code=VIPENVCSVJD&t=1736607959"
     }
     ,
     { 
-      "name": " 3Patti Master", 
-      "image": "https://gnptimes.in/wp-content/uploads/2024/12/images-1-1.jpeg", 
-      "link": "https://www.earntp.com/m/e76r0z"
+      name: " 3Patti Master", 
+      image: "https://gnptimes.in/wp-content/uploads/2024/12/images-1-1.jpeg", 
+      link: "https://www.earntp.com/m/e76r0z"
     },
     
     { 
-      "name": "Rummy Bharat", 
-      "image": "https://images.sftcdn.net/images/t_app-icon-m/p/b9a3efd0-0c99-439f-842e-d9854a4609b4/2278565573/bharatrummy-logo", 
-      "link": "https://www.rich-games.com/eWRud19xXUJ4dQ4="
+      name: "Rummy Bharat", 
+      image: "https://images.sftcdn.net/images/t_app-icon-m/p/b9a3efd0-0c99-439f-842e-d9854a4609b4/2278565573/bharatrummy-logo", 
+      link: "https://www.rich-games.com/eWRud19xXUJ4dQ4="
     },
     
     
@@ -141,11 +141,14 @@ const games = {
       name: "Aviator 2025", 
       image: "https://obs32m-1218-ppp.oss-accelerate.aliyuncs.com/cocos/lg/appIconSkeleton.png", 
       link: "https://zzk.com/?dl=$c50rpi$INR$2"
+    },
+    { 
+      name: "567 Slots", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYA4El9iEYczqOAVHek5pDrY3S8QjBE22YJQ&s", 
+      link: " 567slotappagents.com?code=4NYJ94RE2ZP&t=1737277439"
     }
  
     
-
-
   ],
 
 
@@ -165,7 +168,7 @@ const games = {
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
-      link: "https://lcgvip.com/#?invite_code=942685730"
+      link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
     },
     { 
       name: "Royal Jackpot", 
@@ -232,7 +235,7 @@ const games = {
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
-      link: "https://lcgvip.com/#?invite_code=942685730"
+      link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
     },
     { 
       name: "Roulette", 
@@ -311,128 +314,121 @@ const games = {
     }
 ]
 ,
+
   "Rummy Game": [
-  { 
-    name: "Indian Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU", 
-    link: "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000"
-  },
-  { 
-    name: "Deal Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU", 
-    link: "https://www.rummyguru.top/share/4Xf0Yxy"
-  },
-  { 
-    name: "Points Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU", 
-    link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
-  },
-  { 
-    name: "Pool Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU", 
-    link: "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
-  },
-  { 
-    name: "Gin Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU", 
-    link: "https://royal.wawo3patti.com/?code=code_121423321"
-  },
-  { 
-    name: "Rummy 500", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU", 
-    link: "https://www.rummyse.com/share/4Xe_8xy"
-  },
-  { 
-    name: "Kalooki", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2ZYJxRdLiRjd7beSIqiuNaJmJXBqQkoQlIvuD-8EjSNL-VQs7d3aleJbCNr0Zv1_BAU&usqp=CAU", 
-    link: "https://hobigames.app/?ch=1000000&uid=9261531"
-  },
-  { 
-    name: "Omaha Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oeypxsRTtSVk6qLIZBQMxLioNtgdzC-Jwa8oUF8s-99McqEQJoNHu14SQYL65tie9p8&usqp=CAU", 
-    link: "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
-  },
-  { 
-    name: "Indian Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU", 
-    link: "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000"
-  },
-  { 
-    name: "Deal Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU", 
-    link: "https://www.rummyguru.top/share/4Xf0Yxy"
-  },
-  { 
-    name: "Points Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU", 
-    link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
-  },
-  { 
-    name: "Pool Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU", 
-    link: "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
-  },
-  { 
-    name: "Gin Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU", 
-    link: "https://royal.wawo3patti.com/?code=code_121423321"
-  },
-  { 
-    name: "Rummy 500", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU", 
-    link: "https://www.rummyse.com/share/4Xe_8xy"
-  },
-  { 
-    name: "Kalooki", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2ZYJxRdLiRjd7beSIqiuNaJmJXBqQkoQlIvuD-8EjSNL-VQs7d3aleJbCNr0Zv1_BAU&usqp=CAU", 
-    link: "https://hobigames.app/?ch=1000000&uid=9261531"
-  },
-  { 
-    name: "Omaha Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oeypxsRTtSVk6qLIZBQMxLioNtgdzC-Jwa8oUF8s-99McqEQJoNHu14SQYL65tie9p8&usqp=CAU", 
-    link: "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
-  },
-  { 
-    name: "Indian Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU", 
-    link: "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000"
-  },
-  { 
-    name: "Deal Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU", 
-    link: "https://www.rummyguru.top/share/4Xf0Yxy"
-  },
-  { 
-    name: "Points Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU", 
-    link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
-  },
-  { 
-    name: "Pool Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU", 
-    link: "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
-  },
-  { 
-    name: "Gin Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU", 
-    link: "https://royal.wawo3patti.com/?code=code_121423321"
-  },
-  { 
-    name: "Rummy 500", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU", 
-    link: "https://www.rummyse.com/share/4Xe_8xy"
-  },
-  { 
-    name: "Kalooki", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2ZYJxRdLiRjd7beSIqiuNaJmJXBqQkoQlIvuD-8EjSNL-VQs7d3aleJbCNr0Zv1_BAU&usqp=CAU", 
-    link: "https://hobigames.app/?ch=1000000&uid=9261531"
-  },
-  { 
-    name: "Omaha Rummy", 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oeypxsRTtSVk6qLIZBQMxLioNtgdzC-Jwa8oUF8s-99McqEQJoNHu14SQYL65tie9p8&usqp=CAU", 
-    link: "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
-  }
-]
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
+      "link": "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU",
+      "link": "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU",
+      "link": "https://lcgvip.com/#?invite_code=942685730"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU",
+      "link": "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU",
+      "link": "https://www.rummyguru.top/share/4Xf0Yxy"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU",
+      "link": "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2ZYJxRdLiRjd7beSIqiuNaJmJXBqQkoQlIvuD-8EjSNL-VQs7d3aleJbCNr0Zv1_BAU&usqp=CAU",
+      "link": "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
+    },
+    {
+      "name": "Omaha Rummy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oeypxsRTtSVk6qLIZBQMxLioNtgdzC-Jwa8oUF8s-99McqEQJoNHu14SQYL65tie9p8&usqp=CAU",
+      "link": "https://royal.wawo3patti.com/?code=code_121423321"
+    },
+    {
+      "name": "Indian Rummy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
+      "link": "https://www.rummyse.com/share/4Xe_8xy"
+    },
+    {
+      "name": "Deal Rummy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU",
+      "link": "https://hobigames.app/?ch=1000000&uid=9261531"
+    },
+    {
+      "name": "Points Rummy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU",
+      "link": "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU",
+      "link": "https://rummykg.com/?from_gameid=22934893&channelCode=100000"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU",
+      "link": "https://rummyjd.com/?from_gameid=37491358&channelCode=100000"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU",
+      "link": "https://rummyeast1.com/?from_gameid=20200279&channelCode=100000"
+    },
+    {
+      "name": "Kalooki",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2ZYJxRdLiRjd7beSIqiuNaJmJXBqQkoQlIvuD-8EjSNL-VQs7d3aleJbCNr0Zv1_BAU&usqp=CAU",
+      "link": "https://rainbowry.com?from_gameid=12637278&channelCode=100000"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oeypxsRTtSVk6qLIZBQMxLioNtgdzC-Jwa8oUF8s-99McqEQJoNHu14SQYL65tie9p8&usqp=CAU",
+      "link": "https://www.earntp.com/m/e76r0z"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
+      "link": "https://rummyapple.in?from_gameid=13685732&channelCode=200000"
+    },
+    {
+      "name": "Deal Rummy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU",
+      "link": "https://666eaffiliate.com/?from_gameid=7589021&channelCode=100000"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU",
+      "link": "https://yonorummyf.com?code=VIPUCFXAGZ5&t=1736667118"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU",
+      "link": "https://rummyaf.com/?from_gameid=33504501&channelCode=23095483"
+    },
+    {
+      "name": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU",
+      "link": "https://zzk0008.com/?dl=$c50rpi$INR$2"
+    },
+    {
+      "name": "Rummy 500",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU",
+      "link": "567slotappagents.com?code=4NYJ94RE2ZP&t=1737277439"
+    }
+  ]
+
+
 ,
   "High Bonus Game": [
   { 
@@ -777,6 +773,64 @@ function App() {
       <p>Join the fun with the latest gaming action! 🎮</p>
     </div>
   </div>
+  <div className="youtube-card">
+  <div className="youtube-video-container">
+    <iframe 
+      src="https://www.youtube.com/embed/6jhQ3HHUNsw?si=MHGzdiSD43d6Baoj" 
+      title="Video 1" 
+      frameBorder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowFullScreen
+      className="youtube-video"
+    ></iframe>
+  </div>
+  <div className="youtube-card-title">
+    <h3 className="gradient-text">567 Slots Rummy</h3>
+  </div>
+  <div className="youtube-card-description">
+    <p>Check out this amazing gaming adventure! 🎮</p>
+  </div>
+</div>
+
+<div className="youtube-card">
+  <div className="youtube-video-container">
+    <iframe 
+      src="https://www.youtube.com/embed/Iauxeg3Q6BM?si=UwmGbZ5v28xEf16C" 
+      title="Video 2" 
+      frameBorder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowFullScreen
+      className="youtube-video"
+    ></iframe>
+  </div>
+  <div className="youtube-card-title">
+    <h3 className="gradient-text">YONO Rummy</h3>
+  </div>
+  <div className="youtube-card-description">
+    <p>Explore the newest trends in gaming! 🎮</p>
+  </div>
+</div>
+
+<div className="youtube-card">
+  <div className="youtube-video-container">
+    <iframe 
+      src="https://www.youtube.com/embed/f0Q8h_TGlXY?si=k8p20PYguTfiL_4c" 
+      title="Video 3" 
+      frameBorder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowFullScreen
+      className="youtube-video"
+    ></iframe>
+  </div>
+  <div className="youtube-card-title">
+    <h3 className="gradient-text">All Rummy Link</h3>
+  </div>
+  <div className="youtube-card-description">
+    <p>Learn new strategies for success in gaming! 🎮</p>
+  </div>
+</div>
+
+
 </section>
 <section class="footer-section">
   <footer class="footer-content">
