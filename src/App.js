@@ -28,6 +28,11 @@ const games = {
       link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
     },
     { 
+      name: "Acewin", 
+      image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+      link: "https://www.acewin.in/signup?referId=HE3Q5S"
+    },
+    { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
       link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
@@ -155,6 +160,12 @@ const games = {
 
 
 "Slots Game": [
+  
+  { 
+    name: "Acewin", 
+    image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+    link: "https://www.acewin.in/signup?referId=HE3Q5S"
+  },
     { 
       name: "Fiewin", 
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
@@ -229,7 +240,13 @@ const games = {
       name: "Lucky Reel", 
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPqqO1gAfEcZ7Jf0i_u1noEBsLg--nE2-pQ&s", 
       link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
-    }
+    },
+    
+    { 
+      name: "Acewin", 
+      image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+      link: "https://www.acewin.in/signup?referId=HE3Q5S"
+    },
 ]
 ,"Casino Game": [
     { 
@@ -302,6 +319,12 @@ const games = {
       image: "https://as1.ftcdn.net/v2/jpg/04/83/23/14/1000_F_483231410_deSa92CDIBZD9WheUNzAo00JXluW3RkK.jpg", 
       link: "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
     },
+    
+    { 
+      name: "Acewin", 
+      image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+      link: "https://www.acewin.in/signup?referId=HE3Q5S"
+    },
     { 
       name: "Lucky Spin", 
       image: "https://img.freepik.com/premium-vector/3d-mega-jackpot-winner-awards-with-star-ribbon-text-effect_278261-1324.jpg", 
@@ -320,6 +343,12 @@ const games = {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
       "link": "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+    },
+    
+    { 
+      name: "Acewin", 
+      image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+      link: "https://www.acewin.in/signup?referId=HE3Q5S"
     },
     {
       "name": "",
@@ -436,6 +465,13 @@ const games = {
     image: "https://play-lh.googleusercontent.com/R2ypJNpZ_8yQWIaE3zjidm74PEN9_iJMCBIh-aM71-5X9zmlKQN6n-OTPjzGJcL-7Jsd", 
     link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
   },
+
+  
+  { 
+    name: "Acewin", 
+    image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+    link: "https://www.acewin.in/signup?referId=HE3Q5S"
+  },
   { 
     name: "Teen Patti", 
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdDp4Zzy1j-NKAwnb9fIoHfU6D5D9xopTNw&s", 
@@ -483,6 +519,12 @@ const games = {
   }
 ],
  "2025 Best": [
+  
+  { 
+    name: "Acewin", 
+    image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+    link: "https://www.acewin.in/signup?referId=HE3Q5S"
+  },
   { 
     name: "Poker", 
     image: "https://img.freepik.com/free-vector/poker-background-with-golden-cards-realistic-dice_1017-32739.jpg", 
