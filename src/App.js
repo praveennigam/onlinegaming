@@ -22,6 +22,8 @@ const games = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
       link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
     },
+
+
     { 
       name: "GugoBet", 
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
@@ -37,6 +39,24 @@ const games = {
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
       link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
     },
+    { 
+      name: "YosWin", 
+      image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
+      link: "https://ttyos567.top?invite=MJVSAT"
+    },{ 
+      name: "Bet213", 
+      image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
+      link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
+    },{ 
+      name: "JungleeRummmy", 
+      image: "https://play-lh.googleusercontent.com/h6dgqQYyGYmMQOV1lCAUXDM63iTYW1mZbKhX3oEBjv_F1syhUhpGjkKTp72QwI2IiBw", 
+      link: "https://www.jungleerummy.com/friends/refer-friend?refid=107792925"
+    },{ 
+      name: "WinZo", 
+      image: "https://play-lh.googleusercontent.com/CVeL-bbN-CUwF7eztLhqHHLyAhIj4sYdiMYBjO7b2duLDWtX04I9qe0dhBMNe_KiIQ", 
+      link: "https://winzo.onelink.me/gu8K/1fmzmq9h"
+    },
+   
 
     { 
       name: "Rummy Ola", 
@@ -211,6 +231,24 @@ const games = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVi0-SMto1RQx6IhXziXgywWbvag81jxzWl-1xuHEuIrYy5nP6_qKJjiTvAnlxt28OKo&usqp=CAU", 
       link: "https://www.rummyse.com/share/4Xe_8xy"
     },
+    { 
+      name: "YosWin", 
+      image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
+      link: "https://ttyos567.top?invite=MJVSAT"
+    },{ 
+      name: "Bet213", 
+      image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
+      link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
+    },{ 
+      name: "JungleeRummmy", 
+      image: "https://play-lh.googleusercontent.com/h6dgqQYyGYmMQOV1lCAUXDM63iTYW1mZbKhX3oEBjv_F1syhUhpGjkKTp72QwI2IiBw", 
+      link: "https://www.jungleerummy.com/friends/refer-friend?refid=107792925"
+    },{ 
+      name: "WinZo", 
+      image: "https://play-lh.googleusercontent.com/CVeL-bbN-CUwF7eztLhqHHLyAhIj4sYdiMYBjO7b2duLDWtX04I9qe0dhBMNe_KiIQ", 
+      link: "https://winzo.onelink.me/gu8K/1fmzmq9h"
+    },
+   
     { 
       name: "Golden Slots", 
       image: "https://cdn6.aptoide.com/imgs/3/2/b/32bec7ee28147fc2c3b8b68b07c3ef06_icon.png", 
@@ -466,7 +504,25 @@ const games = {
     link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
   },
 
-  
+  { 
+    name: "YosWin", 
+    image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
+    link: "https://ttyos567.top?invite=MJVSAT"
+  },{ 
+    name: "Bet213", 
+    image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
+    link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
+  },{ 
+    name: "JungleeRummmy", 
+    image: "https://play-lh.googleusercontent.com/h6dgqQYyGYmMQOV1lCAUXDM63iTYW1mZbKhX3oEBjv_F1syhUhpGjkKTp72QwI2IiBw", 
+    link: "https://www.jungleerummy.com/friends/refer-friend?refid=107792925"
+  },{ 
+    name: "WinZo", 
+    image: "https://play-lh.googleusercontent.com/CVeL-bbN-CUwF7eztLhqHHLyAhIj4sYdiMYBjO7b2duLDWtX04I9qe0dhBMNe_KiIQ", 
+    link: "https://winzo.onelink.me/gu8K/1fmzmq9h"
+  },
+ 
+
   { 
     name: "Acewin", 
     image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
@@ -525,6 +581,24 @@ const games = {
     image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
     link: "https://www.acewin.in/signup?referId=HE3Q5S"
   },
+  { 
+    name: "YosWin", 
+    image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
+    link: "https://ttyos567.top?invite=MJVSAT"
+  },{ 
+    name: "Bet213", 
+    image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
+    link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
+  },{ 
+    name: "JungleeRummmy", 
+    image: "https://play-lh.googleusercontent.com/h6dgqQYyGYmMQOV1lCAUXDM63iTYW1mZbKhX3oEBjv_F1syhUhpGjkKTp72QwI2IiBw", 
+    link: "https://www.jungleerummy.com/friends/refer-friend?refid=107792925"
+  },{ 
+    name: "WinZo", 
+    image: "https://play-lh.googleusercontent.com/CVeL-bbN-CUwF7eztLhqHHLyAhIj4sYdiMYBjO7b2duLDWtX04I9qe0dhBMNe_KiIQ", 
+    link: "https://winzo.onelink.me/gu8K/1fmzmq9h"
+  },
+ 
   { 
     name: "Poker", 
     image: "https://img.freepik.com/free-vector/poker-background-with-golden-cards-realistic-dice_1017-32739.jpg", 
