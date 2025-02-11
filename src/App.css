@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Arial', sans-serif;
+  overflow-x: hidden;
 }
 
 /* Body Background */
@@ -671,5 +672,39 @@ section {
 
   .footer-left span {
     font-size: 0.9rem;
+  }
+}
+
+.content-image {
+  width: 100%; /* Ensure the container takes full width */
+  max-width: 100%; /* Prevent overflow */
+  height: auto;
+}
+
+.gamevideo {
+  width: 100%; /* Ensure the video stretches across the full width of the container */
+  height: 98%; /* Ensure the video stretches across the full height of the container */
+  object-fit: cover; /* Maintain aspect ratio while covering the container */
+  border-radius: 8px;
+  opacity: 0.5;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .content-image {
+    height: 200px; /* You can adjust this based on your design */
+  }
+  .gamevideo {
+    object-fit: contain; /* You can change to 'contain' on smaller screens to ensure the entire video fits */
+  }
+}
+
+/* Media query for even smaller screens (mobile devices) */
+@media (max-width: 480px) {
+  .content-image {
+    height: 150px; /* Adjust based on how you want it to look on mobile */
+  }
+  .gamevideo {
+    object-fit: contain;
   }
 }

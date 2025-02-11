@@ -737,9 +737,37 @@ function App() {
 </p>
 
   </div>
-  <div className="content-image" style={{ flex: 1 }}>
-    <img src="https://images.pexels.com/photos/7594586/pexels-photo-7594586.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Gaming" className="gameimg" style={{  height:"100%", borderRadius: '8px' }} />
-  </div>
+  <div
+  className="content-image"
+  style={{
+    flex: 1,
+    backgroundColor: "rgba(0, 0, 0, 0.1)", // Bluish background with opacity
+    position: "relative", // Required for absolute positioning of content
+  }}
+>
+  <video
+    className="gamevideo"
+    style={{
+      height: "100%",
+      borderRadius: "8px",
+      opacity: 0.5, // 50% opacity
+      objectFit: "cover", // Ensures the video covers the entire div while maintaining aspect ratio
+      width: "99%", // Ensure the video takes the full width of the container
+    }}
+    autoPlay
+    loop
+    muted
+    playsInline
+  >
+    <source
+      src="https://videos.pexels.com/video-files/7607945/7607945-sd_640_360_25fps.mp4"
+      type="video/mp4"
+    />
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
 </section>
 
 
