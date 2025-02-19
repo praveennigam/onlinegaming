@@ -29,11 +29,18 @@ const games = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
       link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
     },
+    
     { 
       name: "Acewin", 
       image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
       link: "https://www.acewin.in/signup?referId=HE3Q5S"
     },
+    { 
+      name: "SpeedWin", 
+      image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
+      link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
+    },
+
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
@@ -488,6 +495,11 @@ const games = {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU",
       "link": "https://zzk0008.com/?dl=$c50rpi$INR$2"
     },
+    { 
+      name: "SpeedWin", 
+      image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
+      link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
+    },
     {
       "name": "Rummy 500",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU",
@@ -521,7 +533,11 @@ const games = {
     image: "https://play-lh.googleusercontent.com/CVeL-bbN-CUwF7eztLhqHHLyAhIj4sYdiMYBjO7b2duLDWtX04I9qe0dhBMNe_KiIQ", 
     link: "https://winzo.onelink.me/gu8K/1fmzmq9h"
   },
- 
+  { 
+    name: "SpeedWin", 
+    image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
+    link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
+  },
 
   { 
     name: "Acewin", 
@@ -633,6 +649,11 @@ const games = {
     name: "Lucky Charm", 
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cF7vy-UbfaZnQU_we-ZKpft6BApb1ZQQ9g&s", 
     link: "https://hobigames.app/?ch=1000000&uid=9261531"
+  },
+  { 
+    name: "SpeedWin", 
+    image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
+    link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
   },
   { 
     name: "Golden Rush", 
