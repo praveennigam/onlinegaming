@@ -22,7 +22,11 @@ const games = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
       link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
     },
-
+    { 
+      name: "BharatClub", 
+      image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+    },
 
     { 
       name: "GugoBet", 
@@ -198,6 +202,13 @@ const games = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
       link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
     },
+
+    { 
+      name: "Aviator Hack", 
+      image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+    },
+
     { 
       name: "GugoBet", 
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMKr4p6Oxb72hcXUmaTfusAMCBgdx5erm6Q&s", 
@@ -389,6 +400,11 @@ const games = {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
       "link": "https://fiewin.live//#/LR&RG?C=LK6TM32P"
     },
+    { 
+      name: "Aviator Hack", 
+      image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+    },
     
     { 
       name: "Acewin", 
@@ -532,6 +548,11 @@ const games = {
     name: "WinZo", 
     image: "https://play-lh.googleusercontent.com/CVeL-bbN-CUwF7eztLhqHHLyAhIj4sYdiMYBjO7b2duLDWtX04I9qe0dhBMNe_KiIQ", 
     link: "https://winzo.onelink.me/gu8K/1fmzmq9h"
+  },
+  { 
+    name: "BharatClub", 
+    image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+    link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
   },
   { 
     name: "SpeedWin", 
