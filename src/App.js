@@ -866,7 +866,7 @@ function App() {
       <div className="youtube-card">
   <div className="youtube-video-container">
     <iframe 
-      src="https://www.youtube.com/embed/3lYQHRi0nPc?si=cufiqT5BLnWt6VmT" 
+      src="https://youtu.be/vcL223RQhro" 
       title="Exciting Game Highlights!" 
       frameBorder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -885,7 +885,7 @@ function App() {
   <div className="youtube-card">
     <div className="youtube-video-container">
       <iframe 
-        src="https://www.youtube.com/embed/D3x5VrGQQXI" 
+        src="https://youtu.be/ecWSr_s6Yu4" 
         title="YouTube Video 1" 
         frameBorder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -981,7 +981,7 @@ function App() {
 <div className="youtube-card">
   <div className="youtube-video-container">
     <iframe 
-      src="https://www.youtube.com/embed/Iauxeg3Q6BM?si=UwmGbZ5v28xEf16C" 
+      src="https://youtu.be/JR9MarMFu6s?si=IlN7MQLniRehiVg9" 
       title="Video 2" 
       frameBorder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
