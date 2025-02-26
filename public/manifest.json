@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Online Gaming Hub",
+  "name": "Ultimate Online Gaming Hub | Play Rummy, Casino, Slots & More",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +18,12 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ff6b6b",
+  "background_color": "#ffffff",
+  "description": "Explore thrilling online gaming experiences with the best Rummy, Casino, and Slots Games! Play and win big, challenge your friends, and discover exciting bonuses.",
+  "lang": "en-US",
+  "orientation": "portrait",
+  "scope": "/"
 }

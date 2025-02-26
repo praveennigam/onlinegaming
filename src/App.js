@@ -48,7 +48,7 @@ const games = {
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
-      link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "YosWin", 
@@ -125,9 +125,9 @@ const games = {
       link: "https://royal.wawo3patti.com/?code=code_121423321 "
     },
     { 
-      name: "Hobigames", 
+      name: "Color Game", 
       image: "https://api.duejge22.com/profile/upload/dc114778-03dc-41c5-a16a-9891b21d50d4.png", 
-      link: "https://hobigames.app/?ch=1000000&uid=9261531"
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "Rummy East", 
@@ -217,7 +217,7 @@ const games = {
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
-      link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "Royal Jackpot", 
@@ -270,7 +270,7 @@ const games = {
     { 
       name: "Golden Slots", 
       image: "https://cdn6.aptoide.com/imgs/3/2/b/32bec7ee28147fc2c3b8b68b07c3ef06_icon.png", 
-      link: "https://hobigames.app/?ch=1000000&uid=9261531"
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "Slot Mania", 
@@ -308,7 +308,7 @@ const games = {
     { 
       name: "LCG", 
       image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
-      link: "https://zzk0008.com/?dl=$c50rpi$INR$2"
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "Roulette", 
@@ -353,45 +353,46 @@ const games = {
     { 
       name: "Scratch Cards", 
       image: "https://as1.ftcdn.net/v2/jpg/04/58/48/62/1000_F_458486214_7n8AH7TfZo6tytJBYgaPuADBlAOqWcYq.jpg", 
-      link: "https://hobigames.app/?ch=1000000&uid=9261531"
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "Video Poker", 
       image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Video_Poker%2C_Seven_Feathers_Resort.jpg/640px-Video_Poker%2C_Seven_Feathers_Resort.jpg", 
       link: "https://www.rummyse.com/share/4Xe_8xy"
     },
-    { 
-      name: "Bingo", 
-      image: "https://store-images.s-microsoft.com/image/apps.34080.13510798887528624.ea88a7e6-557c-4ad5-99d7-c574f430c827.3c187ff1-754c-409a-9085-8e3aac2d97c5?h=1280", 
-      link: "https://rummyguru.top/share/4Xf0Yxy"
-    },
-    { 
-      name: "High Stakes", 
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSK5k3xzkvzY97KorV4AUYzgQZleSrA0K1gQ&s", 
-      link: "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
-    },
-    { 
-      name: "Super Jackpot", 
-      image: "https://as1.ftcdn.net/v2/jpg/04/83/23/14/1000_F_483231410_deSa92CDIBZD9WheUNzAo00JXluW3RkK.jpg", 
-      link: "https://rummymost.net/?from_gameid=10084577&channelCode=100000"
-    },
     
-    { 
-      name: "Acewin", 
-      image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
-      link: "https://www.acewin.in/signup?referId=HE3Q5S"
-    },
-    { 
-      name: "Lucky Spin", 
-      image: "https://img.freepik.com/premium-vector/3d-mega-jackpot-winner-awards-with-star-ribbon-text-effect_278261-1324.jpg", 
-      link: "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
-    },
-    { 
-      name: "Mega Jackpot", 
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTA_LwNdHJ5mDHLEjOJ2dhEpWOgmg8tAbhKnee-AktqwZ9NUfDlJlc347eQ-27x4Eg8qM&usqp=CAU", 
-      link: "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000"
-    }
-]
+      { 
+        name: "Bingo", 
+        image: "https://store-images.s-microsoft.com/image/apps.34080.13510798887528624.ea88a7e6-557c-4ad5-99d7-c574f430c827.3c187ff1-754c-409a-9085-8e3aac2d97c5?h=1280", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      },
+      { 
+        name: "High Stakes", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSK5k3xzkvzY97KorV4AUYzgQZleSrA0K1gQ&s", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      },
+      { 
+        name: "Super Jackpot", 
+        image: "https://as1.ftcdn.net/v2/jpg/04/83/23/14/1000_F_483231410_deSa92CDIBZD9WheUNzAo00JXluW3RkK.jpg", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      },
+      { 
+        name: "BharatWin", 
+        image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      },
+      { 
+        name: "Lucky Spin", 
+        image: "https://img.freepik.com/premium-vector/3d-mega-jackpot-winner-awards-with-star-ribbon-text-effect_278261-1324.jpg", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      },
+      { 
+        name: "Mega Jackpot", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTA_LwNdHJ5mDHLEjOJ2dhEpWOgmg8tAbhKnee-AktqwZ9NUfDlJlc347eQ-27x4Eg8qM&usqp=CAU", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      }
+    ]
+    
 ,
 
   "Rummy Game": [
@@ -414,47 +415,47 @@ const games = {
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU",
-      "link": "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW-6vOD2NhWdvWXREEqn5b3mr0RqHKZSXUIrI_T8rDKuXHwdhehtS_YCK82pFEOff_vQ&usqp=CAU",
-      "link": "https://lcgvip.com/#?invite_code=942685730"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGDrlhvC0-hodN6oQfmZE5s-wkIi1lswEO7MexuDcPQJ62KKT42BpJELLnLpIpmFtN60&usqp=CAU",
-      "link": "https://rummytryag00.com/?from_gameid=10779552&channelCode=100000"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU",
-      "link": "https://www.rummyguru.top/share/4Xf0Yxy"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-Xor5Ews0QsCNYl_8AyF3c0nMBzsU45G4njDi1uLRsc9L-H2Bxp2i69lzeVfBk9Q5yo&usqp=CAU",
-      "link": "https://svip3pattiag00.com/?from_gameid=6587602&channelCode=10084553"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2ZYJxRdLiRjd7beSIqiuNaJmJXBqQkoQlIvuD-8EjSNL-VQs7d3aleJbCNr0Zv1_BAU&usqp=CAU",
-      "link": "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "Omaha Rummy",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oeypxsRTtSVk6qLIZBQMxLioNtgdzC-Jwa8oUF8s-99McqEQJoNHu14SQYL65tie9p8&usqp=CAU",
-      "link": "https://royal.wawo3patti.com/?code=code_121423321"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "Indian Rummy",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
-      "link": "https://www.rummyse.com/share/4Xe_8xy"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "Deal Rummy",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03wfUwTYlfAO2MMrzaxuxgjLE2H2NiQHnOXNKYTa3LczbrQcR6_LQUYPqNwrx3TAUYrM&usqp=CAU",
-      "link": "https://hobigames.app/?ch=1000000&uid=9261531"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     {
       "name": "Points Rummy",
@@ -509,7 +510,7 @@ const games = {
     {
       "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHQ2gCvQQTArcbVhAhfniLf7UdKR2IhGXT6yBlZAHoxev2LzZBUWxTx78GmyFm3WL9X0&usqp=CAU",
-      "link": "https://zzk0008.com/?dl=$c50rpi$INR$2"
+      "link": "https://bharatclub.bet/#/register?invitationCode=411673248004"
     },
     { 
       name: "SpeedWin", 
@@ -593,7 +594,7 @@ const games = {
   { 
     name: "Rummy 500", 
     image: "https://play-lh.googleusercontent.com/AOC32gkCVrnlEUSh2gDgUGMcDJit7mMmkThCOXGfunSvtnpkQtRoKsi1MZ8U1f0MjnCr", 
-    link: "https://hobigames.app/?ch=1000000&uid=9261531"
+    link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
   },
   { 
     name: "Texas Hold'em", 
@@ -654,7 +655,7 @@ const games = {
   { 
     name: "Sugarush", 
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHDHA2GzF_I0G7e8pqQntlgy1LqiHq85cCA&s", 
-    link: "https://hobigames.app/?ch=1000000&uid=9261531"
+    link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
   },
   { 
     name: "Dragon Spin", 
@@ -669,7 +670,7 @@ const games = {
   { 
     name: "Lucky Charm", 
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cF7vy-UbfaZnQU_we-ZKpft6BApb1ZQQ9g&s", 
-    link: "https://hobigames.app/?ch=1000000&uid=9261531"
+    link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
   },
   { 
     name: "SpeedWin", 
