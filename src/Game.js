@@ -137,7 +137,7 @@ function Game() {
         <div className="youtube-card">
           <div className="youtube-video-container">
             <iframe 
-              src="https://www.youtube.com/embed/vcL223RQhro?si=u4FKqjA6KTgwXpY8" 
+              src="https://www.youtube.com/embed/S6ahH0GpfZU?si=Pk4ghpljwbVLzofD" 
               title="Exciting Game Highlights!" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -155,7 +155,7 @@ function Game() {
         <div className="youtube-card">
           <div className="youtube-video-container">
             <iframe 
-              src="https://www.youtube.com/embed/vcL223RQhro?si=u4FKqjA6KTgwXpY8" 
+              src="https://www.youtube.com/embed/xV4X4fAq9Dk?si=zoTXfboOysWwoKi0" 
               title="Exciting Game Highlights!" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -174,7 +174,7 @@ function Game() {
         <div className="youtube-card">
           <div className="youtube-video-container">
             <iframe 
-              src="https://www.youtube.com/embed/tF8_-iS29ww?si=RamJqrEyW3yrdAka" 
+              src="https://www.youtube.com/embed/iOcwgwI0ups?si=woYHOrSw-MpxlMgl" 
               title="YouTube Video 1" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -193,7 +193,7 @@ function Game() {
         <div className="youtube-card">
           <div className="youtube-video-container">
             <iframe 
-              src="https://www.youtube.com/embed/AmKzZEEFH3o?si=GDlaZ8gIuNmLNjgp" 
+              src="https://www.youtube.com/embed/u0GydxFLWME?si=nUpusu1bJREDMwa2" 
               title="Rummy Game" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

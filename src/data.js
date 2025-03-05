@@ -14,43 +14,50 @@ export const categories = [
     
     "Apps List":[
       { 
-        name: "Fiewin", 
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
-        link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
-      },
-      { 
         name: "BharatClub", 
         image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
         link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
-      },
-  
-      { 
-        name: "GugoBet", 
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
-        link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
-      },
-      
+      }, 
       { 
         name: "Acewin", 
         image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
         link: "https://www.acewin.in/signup?referId=HE3Q5S"
+      },
+
+      { 
+        name: "Desiwin", 
+        image: "https://www.desiwin.in/assets/newLogo-5c90e18f.png", 
+        link: "https://www.desiwin.in/signup?referId=U9QH6V"
       },
       { 
         name: "SpeedWin", 
         image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
         link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
       },
-  
+      { 
+        name: "YosWin", 
+        image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
+        link: "https://ttyos567.top?invite=MJVSAT"
+      },
+   { 
+        name: "Fiewin", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
+        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+      },
+      
+      { 
+        name: "GugoBet", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
+        link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+      },
+    
       { 
         name: "LCG", 
         image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
         link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
       },
+      
       { 
-        name: "YosWin", 
-        image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
-        link: "https://ttyos567.top?invite=MJVSAT"
-      },{ 
         name: "Bet213", 
         image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
         link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
@@ -196,7 +203,7 @@ export const categories = [
       { 
         name: "Fiewin", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
-        link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
       },
   
       { 
@@ -276,7 +283,7 @@ export const categories = [
       { 
         name: "Win Spin", 
         image: "https://images.sftcdn.net/images/t_app-icon-m/p/a5212e76-b381-46ef-890f-9f4c1a1699e5/1048128205/spin-to-win-hb2-logo", 
-        link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
       },
       { 
         name: "Treasure Spin", 
@@ -309,7 +316,7 @@ export const categories = [
       { 
         name: "Roulette", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3XK9eB3ASxtTH4hCAdSUWEBgc08l-dYLwWho4jUiqe2iN8a386CR8Rbx6lH0iP2a7W4&usqp=CAU", 
-        link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
       },
       { 
         name: "Blackjack", 
@@ -392,10 +399,36 @@ export const categories = [
   ,
   
     "Rummy Game": [
-      {
-        "name": "",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtn0E5UOWrZPsCAgD5kYlmPuog0e899ge3p_Gdm3S83wwlM_bGMY64r5-Xh0A5-NIKhA&usqp=CAU",
-        "link": "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+      { 
+        name: "BharatClub", 
+        image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+      }, 
+      { 
+        name: "Acewin", 
+        image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
+        link: "https://www.acewin.in/signup?referId=HE3Q5S"
+      },
+
+      { 
+        name: "Desiwin", 
+        image: "https://www.desiwin.in/assets/newLogo-5c90e18f.png", 
+        link: "https://www.desiwin.in/signup?referId=U9QH6V"
+      },
+      { 
+        name: "SpeedWin", 
+        image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
+        link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
+      },
+      { 
+        name: "YosWin", 
+        image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
+        link: "https://ttyos567.top?invite=MJVSAT"
+      },
+   { 
+        name: "Fiewin", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
+        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
       },
       { 
         name: "Aviator Hack", 
@@ -570,7 +603,7 @@ export const categories = [
     { 
       name: "Andar Bahar", 
       image: "https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/806c43d1-b549-461f-bf0b-a6a44b40668a/1783726841/andar-bahar-king-screenshot", 
-      link: "https://fiewin.live//#/LR&RG?C=LK6TM32P"
+      link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
     },
     { 
       name: "Wheel of Fortune", 
@@ -611,15 +644,37 @@ export const categories = [
    "2025 Best": [
     
     { 
+      name: "BharatClub", 
+      image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+      link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
+    }, 
+    { 
       name: "Acewin", 
       image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
       link: "https://www.acewin.in/signup?referId=HE3Q5S"
+    },
+
+    { 
+      name: "Desiwin", 
+      image: "https://www.desiwin.in/assets/newLogo-5c90e18f.png", 
+      link: "https://www.desiwin.in/signup?referId=U9QH6V"
+    },
+    { 
+      name: "SpeedWin", 
+      image: "https://yt3.googleusercontent.com/7y0qHcZIrPKgtQUmVi8bWKXeUF7M3WfW3-lkradXLsUZBYYIvVNbe1EtMamZbqjpCn22Bsa6yck=s900-c-k-c0x00ffffff-no-rj", 
+      link: "https://speedwin.live/#/LR&RG?C=9E55A8K8"
     },
     { 
       name: "YosWin", 
       image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1688576427923/hNOUlNUg-.jpeg", 
       link: "https://ttyos567.top?invite=MJVSAT"
-    },{ 
+    },
+ { 
+      name: "Fiewin", 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
+      link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+    },
+    { 
       name: "Bet213", 
       image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
       link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
