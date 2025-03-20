@@ -18,6 +18,8 @@ export const categories = [
         image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
         link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
       }, 
+
+
       { 
         name: "Acewin", 
         image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
@@ -42,15 +44,22 @@ export const categories = [
    { 
         name: "Fiewin", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
-        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+        link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
       },
       
       { 
         name: "GugoBet", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
-        link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+        link: "https://www.gugobet.net/?invitation=bfb5836b&lang=en"
       },
-    
+      
+      { 
+        name: "DmWin", 
+        image: "https://i.pinimg.com/280x280_RS/45/85/7b/45857b524b8f903cfcdb10aa4c2fbb6c.jpg", 
+        link: "https://www.dmwin4.com/#/register?invitationCode=576622091294"
+      },
+
+
       { 
         name: "LCG", 
         image: "https://lcgbet.org/wp-content/uploads/2024/12/images-3.png", 
@@ -61,7 +70,8 @@ export const categories = [
         name: "Bet213", 
         image: "https://play-lh.googleusercontent.com/FGeL7X9iQiJkpbNji4XFjTChSd5gdzH2RMKazpVU_FK0CQN4AZmDMVoYocgpozlVgt8", 
         link: "https://bet213.vip/?code=2QTF1C933JP&t=1738792570"
-      },{ 
+      },
+      { 
         name: "JungleeRummmy", 
         image: "https://play-lh.googleusercontent.com/h6dgqQYyGYmMQOV1lCAUXDM63iTYW1mZbKhX3oEBjv_F1syhUhpGjkKTp72QwI2IiBw", 
         link: "https://www.jungleerummy.com/friends/refer-friend?refid=107792925"
@@ -203,7 +213,7 @@ export const categories = [
       { 
         name: "Fiewin", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
-        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+        link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
       },
   
       { 
@@ -215,7 +225,7 @@ export const categories = [
       { 
         name: "GugoBet", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMKr4p6Oxb72hcXUmaTfusAMCBgdx5erm6Q&s", 
-        link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+        link: "https://www.gugobet.net/?invitation=bfb5836b&lang=en"
       },
       { 
         name: "LCG", 
@@ -283,7 +293,7 @@ export const categories = [
       { 
         name: "Win Spin", 
         image: "https://images.sftcdn.net/images/t_app-icon-m/p/a5212e76-b381-46ef-890f-9f4c1a1699e5/1048128205/spin-to-win-hb2-logo", 
-        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+        link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
       },
       { 
         name: "Treasure Spin", 
@@ -316,7 +326,7 @@ export const categories = [
       { 
         name: "Roulette", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3XK9eB3ASxtTH4hCAdSUWEBgc08l-dYLwWho4jUiqe2iN8a386CR8Rbx6lH0iP2a7W4&usqp=CAU", 
-        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+        link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
       },
       { 
         name: "Blackjack", 
@@ -326,7 +336,7 @@ export const categories = [
       { 
         name: "Poker", 
         image: "https://www.publicdomainpictures.net/pictures/10000/velka/poker-game-1498063674pKA.jpg", 
-        link: "https://www.gugobet.com/?invitation=bfb5836b&lang=en"
+        link: "https://www.gugobet.net/?invitation=bfb5836b&lang=en"
       },
       { 
         name: "Baccarat", 
@@ -428,7 +438,7 @@ export const categories = [
    { 
         name: "Fiewin", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
-        link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+        link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
       },
       { 
         name: "Aviator Hack", 
@@ -603,7 +613,7 @@ export const categories = [
     { 
       name: "Andar Bahar", 
       image: "https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/806c43d1-b549-461f-bf0b-a6a44b40668a/1783726841/andar-bahar-king-screenshot", 
-      link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+      link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
     },
     { 
       name: "Wheel of Fortune", 
@@ -672,7 +682,7 @@ export const categories = [
  { 
       name: "Fiewin", 
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
-      link: "https://fiewin.live//#/LR&RG?C=9MQHD75J"
+      link: "https://fiewin.live//#/LR&RG?C=9N0MM8UD"
     },
     { 
       name: "Bet213", 
