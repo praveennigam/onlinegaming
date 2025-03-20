@@ -13,11 +13,7 @@ export const categories = [
   export const games = { 
     
     "Apps List":[
-      { 
-        name: "BharatClub", 
-        image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
-        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
-      }, 
+       
 
 
       { 
@@ -48,17 +44,22 @@ export const categories = [
       },
       
       { 
-        name: "GugoBet", 
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
-        link: "https://www.gugobet.net/?invitation=bfb5836b&lang=en"
+        name: "BharatClub", 
+        image: "https://cdn6.aptoide.com/imgs/2/c/5/2c5a16c35c959c3957f619fd7a33157f_icon.png", 
+        link: "https://bharatclub.bet/#/register?invitationCode=411673248004"
       },
-      
       { 
         name: "DmWin", 
         image: "https://i.pinimg.com/280x280_RS/45/85/7b/45857b524b8f903cfcdb10aa4c2fbb6c.jpg", 
         link: "https://www.dmwin4.com/#/register?invitationCode=576622091294"
       },
 
+      { 
+        name: "GugoBet", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG1fjerTCIR1IcARdLYrpkK861LwS5xV1Fg&s", 
+        link: "https://www.gugobet.net/?invitation=bfb5836b&lang=en"
+      },
+    
 
       { 
         name: "LCG", 
@@ -210,6 +211,13 @@ export const categories = [
       image: "https://www.acewin.in/assets/acewin-fav-45863a2c.png", 
       link: "https://www.acewin.in/signup?referId=HE3Q5S"
     },
+      
+    { 
+      name: "DmWin", 
+      image: "https://i.pinimg.com/280x280_RS/45/85/7b/45857b524b8f903cfcdb10aa4c2fbb6c.jpg", 
+      link: "https://www.dmwin4.com/#/register?invitationCode=576622091294"
+    },
+
       { 
         name: "Fiewin", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94canud-INKaW6gUXIrBhvdAoFcKrbygMww&s", 
@@ -257,6 +265,7 @@ export const categories = [
         image: "https://play-lh.googleusercontent.com/7PaYOyRNsLhrl3aYRC1R2Q5xRA8WGUsN8asLiiNM8BHQbl470KerxG4nUoElPCcfkQ", 
         link: "https://royal.wawo3patti.com/?code=code_121423321"
       },
+
       { 
         name: "Spin Master", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVi0-SMto1RQx6IhXziXgywWbvag81jxzWl-1xuHEuIrYy5nP6_qKJjiTvAnlxt28OKo&usqp=CAU", 
@@ -333,6 +342,13 @@ export const categories = [
         image: "https://play-lh.googleusercontent.com/009hpXoLRxULWBEF8VsHnNTjFrOQVFKfkQfIxZcDGWtVSZEU5mKtSJyy3Zv3pxVcZQ", 
         link: "https://rummypride.net/?from_gameid=13677055&channelCode=100000"
       },
+        
+      { 
+        name: "DmWin", 
+        image: "https://i.pinimg.com/280x280_RS/45/85/7b/45857b524b8f903cfcdb10aa4c2fbb6c.jpg", 
+        link: "https://www.dmwin4.com/#/register?invitationCode=576622091294"
+      },
+
       { 
         name: "Poker", 
         image: "https://www.publicdomainpictures.net/pictures/10000/velka/poker-game-1498063674pKA.jpg", 
